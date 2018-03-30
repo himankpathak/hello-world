@@ -1,4 +1,2 @@
 # hello-world
-hello world! gg
-
-yooooooooooooooooooooooooooooooooooooooo
+hello world! 
